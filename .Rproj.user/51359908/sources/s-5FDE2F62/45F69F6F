@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552295545401.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4185389511",
+    "id" : "45F69F6F",
+    "lastKnownWriteTime" : 1552295653,
+    "last_content_update" : 1552295653128,
+    "path" : "C:/Users/emma8/Desktop/R-homework/R homework.Rmd",
+    "project_path" : "R homework.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
